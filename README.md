@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @silverware64
-- 👀 I’m interested in operating systems, data science, and machine learning.
-- 🌱 I’m currently learning RISC-V.
-- 💞️ I’m looking to collaborate on fun projects.
-- 📫 How to reach me is at nhbell@email.arizona.edu
+- 👀 I’m interested in .
+- 🌱 I’m currently learning .
+- 💞️ I’m looking to collaborate on .
+- 📫 How to reach me is at 
 
 <!---
 silverware64/silverware64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
